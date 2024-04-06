@@ -19,14 +19,19 @@ p{
         font-size: 19px;
 }
 
+.firma{
+        text-align: end;
+}
+
+#image{
+        background-color: #DBAFA0;
+                width: 100%;
+                padding: 40px;  
+}
+
 #firma{
         font-family: "Dancing Script", cursive;
         font-optical-sizing: auto;
         font-weight: 400;
         font-style: normal;
-        text-align: end;
-}
-
-.text{
-        background-color: #FFEBB2;;        
 }
